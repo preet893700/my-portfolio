@@ -1,11 +1,25 @@
-import { SplitText } from "gsap-trial/SplitText";
+import { SplitText } from "../../utils/SplitText";
 import gsap from "gsap";
-import { smoother } from "../Navbar";
 
 export function initialFX() {
+  // Ensure DOM elements exist before proceeding
+  const mainElement = document.getElementsByTagName("main")[0];
+  if (!mainElement) {
+    console.error("Main element not found, retrying...");
+    setTimeout(initialFX, 100);
+    return;
+  }
+
+  // Check if critical elements exist
+  const landingInfo = document.querySelector(".landing-info h3");
+  if (!landingInfo) {
+    console.error("Landing elements not ready, retrying...");
+    setTimeout(initialFX, 100);
+    return;
+  }
+
   document.body.style.overflowY = "auto";
-  smoother.paused(false);
-  document.getElementsByTagName("main")[0].classList.add("main-active");
+  mainElement.classList.add("main-active");
   gsap.to("body", {
     backgroundColor: "#0a0e17",
     duration: 0.5,
@@ -13,7 +27,7 @@ export function initialFX() {
   });
 
   var landingText = new SplitText(
-    [".landing-info h3", ".landing-intro h2", ".landing-intro h1"],
+    ".landing-info h3, .landing-intro h2, .landing-intro h1",
     {
       type: "chars,lines",
       linesClass: "split-line",
@@ -62,7 +76,7 @@ export function initialFX() {
     }
   );
   gsap.fromTo(
-    [".header", ".icons-section", ".nav-fade"],
+    ".header, .icons-section, .nav-fade",
     { opacity: 0 },
     {
       opacity: 1,
