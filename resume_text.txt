@@ -1,0 +1,81 @@
+Aman Preet Singh Gulati
+♂¶ap-¶arker-altNoida, U.P. /envel⌢pegulatiamanpreetsingh@gmail.com ♂phone-alt6392641881ὑ7Blogs /linkedin-inLinkedin /githubGithub
+Experience
+Software Development Engineer II
+HekaosNoida, UP
+Oct 2024–Present
+◦Designed and developed scalable distributed systems withagentic workflows automating business
+processes, reducing manual intervention by 70%.
+◦Built production-grade RAG (Retrieval-Augmented Generation) pipeline using LangChain and
+OpenAI GPT-4 for enterprise chatbot, enabling intelligent query resolution across 10,000+ HR documents
+and company policies with 95% accuracy.
+◦Implemented vector database integration with semantic search capabilities, reducing information retrieval
+time from 5 minutes to 10 seconds.
+◦Developed AI-powered automation workflows integrating LLM APIs to optimize system performance and
+reduce response latency by 60%.
+System Engineer
+Tata Consultancy Services Ltd.Noida, UP
+April 2023–Oct 2024
+◦Led backend development for cloud migration of enterprise legacy reporting system serving Fortune 500
+pharmaceutical client with 9,000+ retail locations, processing 500,000+ daily healthcare transactions.
+◦Architected microservices-based reporting engine using Spring Boot , achieving 40% performance
+improvement through optimized database queries and caching strategies.
+◦Designed RESTful APIs withSpring Data JPA enabling real-time data synchronization across dis-
+tributed systems with 99.5% reliability.
+◦Implemented OAuth 2.0 andJWT authentication using Spring Security , ensuring HIPAA compli-
+ance for protected health information (PHI).
+◦Integrated SonarQube achieving 90%+ code coverage and reducing critical vulnerabilities by 85%, man-
+aging multi-environment deployments using Spring Profiles .
+Associate System Engineer
+Tata Consultancy Services Ltd.Noida, UP
+Jul 2021–March 2023
+◦Developed Spring Boot microservices leveraging Java 8+ features (Streams, Lambda, Optional)
+enhancing code performance and maintainability by 30%.
+◦Engineered complex database operations using Spring Data JPA andHibernate , implementing custom
+queries and indexing strategies to optimize query performance.
+◦Delivered 20+ feature enhancements and API endpoints in bi-weekly sprints, maintaining 98% on-time
+delivery rate.
+Projects
+Enterprise AI Chatbot with RAG Pipeline
+◦Built conversational AI system using RAG architecture providing instant access to organizational
+knowledge including HR policies, employee handbooks, and compliance guidelines.
+◦Implemented document processing pipeline using LangChain andOpenAI embeddings to vec-
+torize and index 100+ documents into Pinecone vector database .
+◦Achieved 95% accuracy in answering employee queries with semantic search engine , reducing HR
+support tickets by 45%.
+◦Tech Stack : Python, LangChain, OpenAI GPT-4, Pinecone, FastAPI, PostgreSQL, Redis.
+Healthcare Data Analytics and Reporting Platform
+◦Architected microservices-based reporting platform processing 500,000+ daily transactions across
+9,000+ retail locations with real-time analytics.
+Aman Preet Singh Gulati
+◦Developed RESTful APIs for data aggregation and visualization, enabling business intelligence dash-
+boards for tracking KPIs and operational metrics.
+◦Implemented distributed caching and database optimization reducing report generation time from 45
+seconds to 8 seconds (82% improvement).
+◦Built automated data validation pipeline ensuring HIPAA compliance, processing 2M+ records monthly.
+◦Tech Stack : Java 11, Spring Boot, Spring Data JPA, PostgreSQL, Redis, Apache Kafka, Maven.
+Project Portfolio Management System
+◦Engineered enterprise project tracking platform enabling delivery managers to monitor 100+ con-
+current projects and optimize resource allocation.
+◦Developed RESTful API suite with 30+ endpoints for project lifecycle management, financial tracking,
+and automated reporting with role-based access control.
+◦Implemented real-time dashboard APIs providing instant visibility into project health metrics, improving
+decision-making speed by 50%.
+◦Tech Stack : Java, Spring Boot, Spring Data JPA, Spring Security, MySQL, Hibernate, Maven, Swagger.
+Education
+Sastra University, Chennai
+Master of Computer ApplicationAug 2022 – July 2024
+Dr. Virendra Swarup Institute of Computer Studies (VSICS)
+Bachelor of Computer ApplicationsAug 2018 – May 2021
+Skills and Technologies
+Programming Languages: Java, Python, SQL, JavaScript
+Backend Frameworks: Spring Boot, Spring Security, Spring Data JPA, Hibernate, FastAPI, LangChain
+AI/ML Technologies: LangChain, OpenAI GPT-4, RAG Architecture, Vector Databases, Pinecone, LLM
+Integration
+Databases: PostgreSQL, MySQL, MongoDB, Redis, Pinecone
+Tools and IDE: IntelliJ IDEA, Git, GitHub, SonarQube, Postman, Swagger, Maven, JIRA
+APIs and Integration: REST APIs, OAuth 2.0, JWT, Apache Kafka
+Certifications
+◦Microsoft Azure Fundamentals ( AZ-900, AI-900, DP-900 )
+◦Microsoft Azure Developer Associate ( AZ-204 )
+Aman Preet Singh Gulati
